@@ -1,0 +1,4 @@
+# config.py.example
+API_KEY = "your-api-key-here"
+MODEL_NAME = "qwen-vl-max"
+PDF_PATH = "topology.pdf"
