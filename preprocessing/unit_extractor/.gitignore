@@ -1,0 +1,16 @@
+# 进度缓存文件
+progress_*.json
+auto_full_progress.json
+
+# 输出文件夹
+preprocessing/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 临时/日志文件
+*.log
+tmp/
+
+config.py
